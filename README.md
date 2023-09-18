@@ -1,3 +1,5 @@
+![Banner](https://github.com/TahirAlauddin/TahirAlauddin/blob/master/Linkedin%20Banner.png)
+
 # Tahir Alauddin
 <h3>A young mysterious software developer from Pakistan with entrepreneurial mindset.</h3>
 
@@ -9,11 +11,11 @@
 
 - 📫 How to reach me: **tahiralauddin7@gmail.com**
 
-- ⚡ Fun fact: **I am a self taught developer**
+- ⚡ Fun fact: **I am self taught**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tahiralauddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahiralauddin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//tahir-alauddin-a39192212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahiralauddin" height="30" width="40" /></a>
 <a href="https://discord.gg/mvnKrAUz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mvnKrAUz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15107208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15107208" height="30" width="40" /></a>
 </p>
