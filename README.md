@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 I’m currently working on: **Starc Assistant**
+- 🔭 I’m currently working on: **MSP Dashboard (Project Rocket)**
 
 - 💬 Ask me about: **Web Development, Software Development, Python, Django and Javascript**
 
