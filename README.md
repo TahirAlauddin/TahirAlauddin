@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 I’m currently working on: **MSP Dashboard (Project Rocket)**
+- 🔭 I’m currently working on: **MSP Dashboard (Project Rocket) and Crown IQ**
 
 - 💬 Ask me about: **Web Development, Software Development, Python, Django and Javascript**
 
