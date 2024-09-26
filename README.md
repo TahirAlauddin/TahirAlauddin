@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **Web Development, Software Development, Python, Django and Javascript**
 
-- 📫 How to reach me: **tahiralauddin7@gmail.com**
+- 📫 How to reach me: **tahir@tahiralauddin.com**
 
 - ⚡ Fun fact: **I am self taught**
 
