@@ -35,14 +35,15 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-five-rho-71.vercel.app/api?username=TahirAlauddin&show_icons=true&theme=dark&hide=commits"
+    srcset="https://github-readme-stats-five-rho-71.vercel.app/api?username=TahirAlauddin&show_icons=true&theme=radical&hide=contribs"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-five-rho-71.vercel.app/api?username=TahirAlauddin&show_icons=true&hide=commits"
+    srcset="https://github-readme-stats-five-rho-71.vercel.app/api?username=TahirAlauddin&show_icons=true&hide=contribs"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-five-rho-71.vercel.app/api?username=TahirAlauddin&show_icons=true&hide=commits" />
+  
+  <img src="https://github-readme-stats-five-rho-71.vercel.app/api?username=TahirAlauddin&show_icons=true&hide=contribs" />
 </picture>
 
 
