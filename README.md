@@ -6,17 +6,12 @@ I’m a web developer passionate about impactful solutions, seeking a full-time 
 </p>
 <p>Please visit my website: https://tahiralauddin.com</p>
 <br/>
-<br/>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tahir-alauddin-a39192212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahiralauddin" height="30" width="40" /></a>  <a href="https://stackoverflow.com/users/15107208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15107208" height="30" width="40" /></a> <a href="https://twitter.com/mtahiralauddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mtahiralauddin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/tahiralauddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tahiralauddin/" height="30" width="40" /></a>
 
-
- 
 </p>
 
 
