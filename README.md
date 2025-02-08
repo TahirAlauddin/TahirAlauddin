@@ -1,17 +1,12 @@
 # Tahir Alauddin
-<h3>Insecure Prodigy. Building software for startups that scales with their businesses. </h3>
-  Your next Big-Tech company.
 
+<h3> Intro: </h3>
+<p>
+I’m a web developer passionate about impactful solutions, seeking a full-time role in a company that values innovation and growth.
+</p>
+<p>Please visit my website: https://tahiralauddin.com</p>
 <br/>
 <br/>
-
-- 🔭 I’m currently working on: **NextRep (AI Sales Software)**
-
-- 💬 Ask me about: **Web Development, Software Development, Python, Django and Javascript**
-
-- 📫 How to reach me: **tahir@tahiralauddin.com**
-
-- ⚡ Fun fact: **I am self taught**
 
 
 
@@ -21,8 +16,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/tahiralauddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tahiralauddin/" height="30" width="40" /></a>
 
 
-
-  
+ 
 </p>
 
 
